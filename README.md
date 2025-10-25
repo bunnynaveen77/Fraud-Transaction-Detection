@@ -1,5 +1,6 @@
- Fraudulent Transactions Detection using Machine Learning
- Overview
+Fraudulent Transactions Detection using Machine Learning
+ 
+Overview
 
 Financial fraud is one of the most challenging issues in the digital economy. This project leverages Machine Learning (ML) techniques to detect fraudulent financial transactions by identifying suspicious behavior patterns.
 The goal is to build a reliable model that can classify transactions as Fraud or Non-Fraud, enabling financial institutions to proactively reduce risk and enhance security.
