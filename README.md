@@ -138,7 +138,7 @@ Sampling	imbalanced-learn
 Workflow	Jupyter Notebook / Colab
 🚀 How to Run
 # Clone this repository
-git clone https://github.com/yourusername/Fraudulent-Transactions-Detection.git
+git clone https://github.com/bunnynaveen77/Fraudulent-Transactions-Detection.git
 cd Fraudulent-Transactions-Detection
 
 # Install dependencies
